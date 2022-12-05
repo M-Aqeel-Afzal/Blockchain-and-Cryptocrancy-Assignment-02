@@ -1,4 +1,4 @@
-package main
+package assignment02bca
 
 import (
 	"bytes"
